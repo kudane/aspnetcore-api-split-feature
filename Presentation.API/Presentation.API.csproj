@@ -13,7 +13,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Feature.Create.User\Feature.Create.User.csproj" />
     <ProjectReference Include="..\Feature.Get.UserAll\Feature.Get.UserAll.csproj" />
     <ProjectReference Include="..\Infrastructure.EfCore\Infrastructure.EfCore.csproj" />
   </ItemGroup>
